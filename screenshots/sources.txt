@@ -1,0 +1,6 @@
+https://dronebotworkshop.com/rotary-encoders-arduino/ UNOFFICIAL
+https://escholarship.org/content/qt9mc9q9p5/qt9mc9q9p5_noSplash_614f436b4003d21d722c1f886baef8d3.pdf?t=krnjj7 ACCELEROMETER ERROR ANALYSIS
+https://github.com/TKJElectronics/Example-Sketch-for-IMU-including-Kalman-filter/blob/master/IMU/LPR530AL_LY530ALH_ADXL335/LPR530AL_LY530ALH_ADXL335.ino
+https://www.sparkfun.com/datasheets/Components/SMD/adxl335.pdf
+https://forum.arduino.cc/t/guide-to-gyro-and-accelerometer-with-arduino-including-kalman-filtering/57971
+http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
